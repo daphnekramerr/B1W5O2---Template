@@ -2,27 +2,64 @@ body {
     background-image: url("header_bg.jpg");
     background-repeat: no-repeat;
     background-color: #d6d3d3;
-    background-size: 1349px 667px;;
+    background-size: 1349px 667px;
    }
 
 img {
     position: relative;
     margin-top: 150px;
     margin-left: 520px;
-    line-height: 1.7em; 
-    font-family: 'Roboto', sans-serif;
 
 }
+
+.text{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    position:absolute;
+    left:20%;
+    top:55%;
+    font-size: 10px;
+    word-spacing: 45px;
+}
+
 
 i.fas,
 i.far {
     font-size: 35px;
-    color: white;
+    color: rgba(255, 255, 255, 0.8);
     opacity: 0.3;
-    padding: 20px;
-
 }
 
 .btn1{
-    margin-top: 200px;
+    position: absolute;
+    top: 50%;
+    left: 20%;
 }
+
+.btn2{
+    position: absolute;
+    top: 50%;
+    left: 27%;
+}
+.btn3{
+    position: absolute;
+    top: 50%;
+    left: 34%;
+}
+.btn4{
+    position: absolute;
+    top: 50%;
+    left: 41%;
+}
+.btn5{
+    position: absolute;
+    top: 50%;
+    left: 48%;
+}
+.btn6{
+    position: absolute;
+    top: 50%;
+    left: 55%;
+}
+
+
