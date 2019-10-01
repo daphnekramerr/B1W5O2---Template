@@ -1,7 +1,7 @@
 body {
     background-image: url("header_bg.jpg");
     background-repeat: no-repeat;
-    background-color: #ffffff;
+    background-color: #d6d3d3;
     background-size: 1349px 667px;;
    }
 
@@ -16,9 +16,13 @@ img {
 
 i.fas,
 i.far {
-    position: relative;
     font-size: 35px;
     color: white;
-    padding:30px;
     opacity: 0.3;
+    padding: 20px;
+
+}
+
+.btn1{
+    margin-top: 200px;
 }
