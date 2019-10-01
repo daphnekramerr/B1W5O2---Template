@@ -6,6 +6,7 @@ body {
    }
 
 img {
+    position: relative;
     margin-top: 150px;
     margin-left: 520px;
     line-height: 1.7em; 
@@ -15,6 +16,7 @@ img {
 
 i.fas,
 i.far {
+    position: relative;
     font-size: 35px;
     color: white;
     padding:30px;
