@@ -1,0 +1,22 @@
+body {
+    background-image: url("header_bg.jpg");
+    background-repeat: no-repeat;
+    background-color: #ffffff;
+    background-size: 1349px 667px;;
+   }
+
+img {
+    margin-top: 150px;
+    margin-left: 520px;
+    line-height: 1.7em; 
+    font-family: 'Roboto', sans-serif;
+
+}
+
+i.fas,
+i.far {
+    font-size: 35px;
+    color: white;
+    padding:30px;
+    opacity: 0.3;
+}
