@@ -1,24 +1,23 @@
 body {
-    background-image: url("header_bg.jpg");
+    background-image: url("header2.png");
     background-repeat: no-repeat;
-    background-color: #d6d3d3;
-    background-size: 1349px 667px;
-    
-   }
+    background-color: #ffffff;
+    background-size: 1348px 393px;
+    font-family: 'Roboto', sans-serif;    
+}
 
 img {
     position: relative;
-    margin-top: 190px;
+    margin-top: 60px;
     margin-left: 520px;
 
 }
 
 .text{
     color: white;
-    font-family: 'Roboto', sans-serif;
     position:absolute;
     left:33%;
-    top:73%;
+    top:50%;
     font-size: 7px;
     word-spacing: 50px;
 }
@@ -33,33 +32,33 @@ i.far {
 
 .btn1{
     position: absolute;
-    top: 68%;
+    top: 45%;
     left: 33%;
 }
 
 .btn2{
     position: absolute;
-    top: 68%;
+    top: 45%;
     left: 40%;
 }
 .btn3{
     position: absolute;
-    top:68%;
+    top: 45%;
     left: 47%;
 }
 .btn4{
     position: absolute;
-    top: 68%;
+    top: 45%;
     left: 54%;
 }
 .btn5{
     position: absolute;
-    top: 68%;
+    top: 45%;
     left: 61%;
 }
 .btn6{
     position: absolute;
-    top: 68%;
+    top: 45%;
     left: 68%;
 }
 
@@ -87,4 +86,17 @@ i.fab{
     position: absolute;
     top: 0%;
     left: 95%;
+}
+
+.text1{
+    position:absolute;
+    min-height: 20px;
+    width: 200px;
+    left:570px;
+    top:400px;
+    background: rgba(80, 76, 90, 0.3); 
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 20%;
 }
